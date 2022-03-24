@@ -35,4 +35,4 @@ def profile(skill):
     return str_candidates
 
 
-app.run(debug=True)
+app.run()
